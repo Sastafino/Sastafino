@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Sastafino/Sastafino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mostafa Ashraf Elshahawy.
 
-Here are some ideas to get you started:
+I am currently a student at the Egyptian Chinese University, majoring in Computer Science with a specialization in Data Science .I am actively engaging in self-study and working on projects, primarily those related to medical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟About Me
+I believe in instant execution and determination. When I start a project, I am committed to seeing it through to completion.
+
+🛠️ Skills & Tools
+I am proficient in the following languages and tools:
+Category              Tools
+Programming             Python, C++
+Data Analysis           Microsoft Excel
+Data Science            Pandas, NumPy, Scikit-learn, TensorFlow / PyTorch, SQL
+
+
+📬 Get in Touch
+You can connect with me through:
+
+LinkedIn: www.linkedin.com/in/mostafa-elshahawy-60552a297
+
+Email: sasa.elshahawy.05@gmail.com
