@@ -10,13 +10,13 @@ I believe in instant execution and determination. When I start a project, I am c
 🛠️ Skills & Tools
 I am proficient in the following languages and tools:
 
-Category              Tools
+Category                    Tools
 
-Programming             Python, C++
+Programming                 Python, C++
 
-Data Analysis           Microsoft Excel
+Data Analysis               Microsoft Excel
 
-Data Science            Pandas, NumPy, Scikit-learn, TensorFlow / PyTorch, SQL
+Data Science                Pandas, NumPy, Scikit-learn, TensorFlow / PyTorch, SQL
 
 
 
