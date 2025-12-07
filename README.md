@@ -10,19 +10,18 @@ Hi there 👋 I'm Mostafa Ashraf Elshahawy<br><br>🎓 Student | Data Science & 
 # 📊 GitHub Stats:
 <div align="center">
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=sastafino&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=sastafino&theme=gotham&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sastafino&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-### 🔝 Top Contributed Repo
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sastafino&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ![](https://github-contributor-stats.vercel.app/api?username=sastafino&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
----
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=sastafino&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
